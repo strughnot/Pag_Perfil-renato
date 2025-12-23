@@ -1,11 +1,11 @@
 # Página de Perfil - Renato
 
-Una página web moderna para mostrar tu currículum, inspirada en diseños profesionales como [daniellaera.com](https://daniellaera.com/).
+Esta es mi portafolio, donde muestro mis habilidades, los lenguajes que he aprendido a lo largo de este tiempo
 
 ## Características
 
 - ✨ Diseño moderno y limpio
-- 🌙 Modo oscuro/claro con persistencia
+- 🌙 Modo claro/oscuro/morado/azul marino
 - 📱 Totalmente responsive
 - ⚡ Construido con React y Vite
 - 🎨 Estilos CSS personalizados
