@@ -1,0 +1,34 @@
+.languages-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.language-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--card-bg);
+  padding: 15px 20px;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+}
+
+.language-name {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.language-level {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .language-item {
+    padding: 12px 15px;
+  }
+}
+

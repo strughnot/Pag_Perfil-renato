@@ -1,0 +1,65 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --text-secondary: #666666;
+  --border-color: #e0e0e0;
+  --card-bg: #f9f9f9;
+  --link-color: #0066cc;
+  --link-hover: #0052a3;
+}
+
+.dark {
+  --bg-color: #1a1a1a;
+  --text-color: #e0e0e0;
+  --text-secondary: #b0b0b0;
+  --border-color: #333333;
+  --card-bg: #242424;
+  --link-color: #4a9eff;
+  --link-hover: #6bb3ff;
+}
+
+/* Tema púrpura */
+.purple {
+  --bg-color: #15001f;
+  --text-color: #f5e9ff;
+  --text-secondary: #d8c4f0;
+  --border-color: #3a084f;
+  --card-bg: #240034;
+  --link-color: #e18aff;
+  --link-hover: #f1b4ff;
+}
+
+/* Tema Axul Marino*/
+.blue {
+  --bg-color: #00003d;
+  --text-color: #f5e9ff;
+  --text-secondary: #d8c4f0;
+  --border-color: #050576;
+  --card-bg: #000080;
+  --link-color: #0400f8;
+  --link-hover: #000080;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
