@@ -1,4 +1,4 @@
-# Página de Perfil - Renato
+# Portafolio - Renato
 
 Esta es mi portafolio, donde muestro mis habilidades, los lenguajes que he aprendido a lo largo de este tiempo
 
