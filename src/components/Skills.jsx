@@ -7,27 +7,19 @@ const Skills = () => {
       skills: []
     },
     {
-      category: 'React / Next.js / Vue / Angular',
+      category: 'React / Next.js / Vue',
       skills: []
     },
     {
-      category: 'Node.js / Express / NestJS',
+      category: 'Node.js / NestJS',
       skills: []
     },
     {
-      category: 'Java / Spring Boot / Maven',
+      category: 'PostgreSQL / MongoDB / SQL',
       skills: []
     },
     {
-      category: 'PostgreSQL / MongoDB / SQL / Prisma / JPA',
-      skills: []
-    },
-    {
-      category: 'Docker / Kubernetes / CI/CD (GitLab, Jenkins)',
-      skills: []
-    },
-    {
-      category: 'Testing (JUnit, Cypress, Mockito)',
+      category: 'Docker',
       skills: []
     },
     {
