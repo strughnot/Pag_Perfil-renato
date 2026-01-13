@@ -6,7 +6,8 @@ const Interests = () => {
     { name: 'Musica', emoji: '🎧' },
     { name: 'Senderismo', emoji: '🥾' },
     { name: 'Airsoft', emoji: '🔫' },
-    { name: 'Tecnologia', emoji: '💻' }
+    { name: 'Tecnologia', emoji: '💻' },
+    { name: 'Gaming', emoji: '🎮'}
   ]
 
   return (

@@ -3,7 +3,7 @@ import './Header.css'
 const Header = () => {
   const personalInfo = {
     name: 'Renato Hernández',
-    title: 'Desarrollador Full-Stack y Arquitecto de Software',
+    title: 'Desarrollador Full-Stack',
     email: 'rnto443@gmail.com',
     phone: '+56 9 7443 8032',
     location: 'Santiago, Chile',
