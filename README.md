@@ -4,7 +4,7 @@ Esta es mi portafolio, donde muestro mis habilidades, los lenguajes que he apren
 
 ## Url
 
-hhttps://strughnot.github.io/Renato-Hernandez/
+https://strughnot.github.io/Renato-Hernandez/
 
 ## Características
 
