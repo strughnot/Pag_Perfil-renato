@@ -9,8 +9,8 @@ const Projects = () => {
     },
     {
       name: 'Proyecto 2',
-      description: 'Este proyecto es un portafolio web desarrollado para mostrar mis habilidades y proyectos como desarrollador full-stack. Utiliza Java con Spring Boot en el backend para manejar solicitudes y servir datos, mientras que el frontend está construido con VueJS y TypeScript para una experiencia de usuario interactiva. El proyecto está alojado en GitHub y utiliza CI/CD para despliegues automáticos mediante Docker.',
-      technologies: ['TypeScript', 'React', 'Node.js', 'VueJS', 'GitHub']
+      description: 'Este proyecto es un portafolio web desarrollado para mostrar mis habilidades y proyectos como desarrollador full-stack. Utiliza React en el frontend para manejar solicitudes y servir datos, mientras que el backend está construido con Node.js y TypeScript para una experiencia de usuario interactiva. El proyecto está alojado en GitHub y utiliza CI/CD para despliegues automáticos mediante Docker.',
+      technologies: ['TypeScript', 'React', 'Node.js', 'GitHub']
     },
     {
       name: 'Proyecto 3',
